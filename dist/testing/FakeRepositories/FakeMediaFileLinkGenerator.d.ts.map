@@ -1,0 +1,1 @@
+{"version":3,"file":"FakeMediaFileLinkGenerator.d.ts","sourceRoot":"","sources":["../../../src/testing/FakeRepositories/FakeMediaFileLinkGenerator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,uBAAuB,EAAE,KAAK,EAAE,MAAM,aAAa,CAAC;AAE7D,MAAM,CAAC,OAAO,OAAO,0BAA2B,YAAW,uBAAuB;IAE9E,WAAW,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;IAIjC,gBAAgB,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;CAGzC"}

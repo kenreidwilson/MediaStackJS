@@ -1,0 +1,1 @@
+{"version":3,"file":"MediaFileLinkGenerator.d.ts","sourceRoot":"","sources":["../src/MediaFileLinkGenerator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,uBAAuB,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAEzD,MAAM,CAAC,OAAO,OAAO,sBAAuB,YAAW,uBAAuB;IAE1E,MAAM,EAAE,MAAM,CAAC;gBAEH,MAAM,EAAE,MAAM;IAI1B,WAAW,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;IAIjC,gBAAgB,CAAC,KAAK,EAAE,KAAK,GAAG,MAAM;CAGzC"}
