@@ -7,3 +7,4 @@ export * from "./MediaFileLinkGenerator";
 export * from "./repositories/MediaRepository";
 export * from "./repositories/TagRepository";
 export * from "./MediaStackRestAPI";
+export * from "./testing";
